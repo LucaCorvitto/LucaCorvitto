@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! :raising_hand:👋, I'm Luca Corvitto</h1>
+<h1 align="center">Hi there! :raising_hand:, I'm Luca Corvitto</h1>
 <h3 align="center">A computer engineer from Italy in love with AI</h3>
 <div align="center">
 Visitor Count
