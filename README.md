@@ -16,7 +16,7 @@ Visitor Count
 ---
 ### :notes: About me:
 - :microscope: I’m currently working on my Master
-- :mag_right: I'm particularly interested on generative models
+- :mag_right: I'm particularly interested in generative models
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
