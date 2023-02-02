@@ -6,7 +6,7 @@ Visitor Count
 <div align="center">
 <img align="center" src="https://profile-counter.glitch.me/LucaCorvitto/count.svg"/>
 </div>
-<h3 align="center">Connect with me:</h3>
+<h4 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://kaggle.com/lucacorvitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="luca corvitto" height="30" width="40" /></a>
 <a href="https://fb.com/luca.corvitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luca corvitto" height="30" width="40" /></a>
