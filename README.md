@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! :raising_hand:, I'm Luca Corvitto</h1>
-<h3 align="center">A computer and system engineer from Italy in love with AI</h3>
+<h3 align="center">An AI engineer from Italy in love with GenAI and LLMs</h3>
 <div align="center">
 Visitor Count
 </div>
@@ -16,7 +16,7 @@ Visitor Count
 
 ---
 ### :notes: About me:
-- :microscope: I’m currently working on my Master
+- :microscope: I’m currently working at CAELUS on GenAI applications for the nuclear energy sector, while pursuing my Master's Degree
 - :mag_right: I'm particularly interested in generative models
 ---
 ### :hammer_and_wrench: Languages and Tools :
