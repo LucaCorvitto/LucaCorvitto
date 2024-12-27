@@ -61,10 +61,18 @@ To learn more, visit my [Personal Web Page](https://lucacorvitto.com/)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
+
 ## 📞 Contacts
-<a href="https://t.me/LucaCorvitto" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/000000/ffffff" alt="Telegram"/></a>
-<a href="https://www.linkedin.com/in/lucacorvitto" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/000000/ffffff" alt="LinkedIn"/></a>
-<a href="mailto:luca99corvitto@gmail.com" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/000000/ffffff" alt="Gmail"/></a>
+<a href="https://t.me/LucaCorvitto" target="_blank">
+  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" />
+</a>
+<a href="https://www.linkedin.com/in/lucacorvitto" target="_blank">
+  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" />
+</a>
+<a href="mailto:luca99corvitto@gmail.com" target="_blank">
+  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" />
+</a>
+
 
 <!--
 ### :chart_with_upwards_trend: My Stats :
