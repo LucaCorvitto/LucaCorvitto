@@ -1,12 +1,12 @@
 ![Github Title Page](https://github.com/user-attachments/assets/da3df2fb-a53f-4578-8336-0903aafac6e6)
 
 <div align="center">
-Hi there! 👋 Thank You for being visitor
+ Hi there! 👋 <!-- Thank You for being visitor
 </div>
 <div align="center">
 <img align="center" src="https://profile-counter.glitch.me/LucaCorvitto/count.svg"/>
 </div>
-<div align="center">
+<div align="center"> -->
 Your curiosity and visit are much appreciated.
 </div>
 
